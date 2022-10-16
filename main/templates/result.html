@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css"  href="static/styles.css">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			ML App
+		</div>
+		<h2>Spam Detector For SMS Messages</h2>
+		
+	</div>
+	</header>
+	<p style="color:blue;font-size:20;text-align: center;"><b>Results for Comment</b></p>
+	<div class="results">
+
+
+		
+	{% if prediction == 1%}
+	<h2 style="color:red;">Scam!</h2>
+	{% elif prediction == 0%}
+	<h2 style="color:blue;">Not a Scam</h2>
+	{% endif %}
+
+	</div>
+
+</body>
+</html>
+
+<!--form action="{{ url_for('predict')}}" method="POST">
+		<p>Check your Tweet/Text here which you want to predict Spam or Ham</p>
+		<!-- <input type="text" name="comment"/>>
+		<textarea name="message" rows="6" cols="50"></textarea>
+		<br/>
+
+		<input type="Submit" class="btn-info" value="Check">
+
+	</form>
