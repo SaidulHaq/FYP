@@ -1,6 +1,4 @@
-# FYP
-
-### University Final Year Project
+# FYP - University Final Year Project
 
 
 - ***Project Objective:***
