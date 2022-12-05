@@ -16,3 +16,21 @@ Consumers may find it more difficult to make wise judgments or refuse high-press
 
 #### ***Project Platform:***
 Python is implemented in this project to analyze the data since it is an identical label corporate data science programming language with an integrated framework for data planning, machine learning, deep learning, text analysis, and predictive analytics. It also supports all machine learning process steps, including data preparation, display of results, model validation, and optimization, and is utilized for business and commercial applications like research, education, training, and web development. The front-end part was developed using HTML, CSS, Bootstrap, and JavaScript. The model is finally run using the Python flask framework as the backend.
+
+
+## Screenshots
+
+### Workflow
+![Workflow](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Report.jpg)
+
+### Model
+![Model](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Mrtrics.jpg)
+
+### Precision, recall, and f1 score
+![Precision, recall, and f1 score](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Bug%20Report.jpg)
+
+### Confusion Matrix
+![Confusion Matrix](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
+
+### Web Interface
+![Web Interface](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
