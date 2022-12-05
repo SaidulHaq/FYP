@@ -24,7 +24,7 @@ Python is implemented in this project to analyze the data since it is an identic
 ![Workflow](https://github.com/SaidulHaq/FYP/blob/main/workflow.jpg)
 
 ### Model
-![Model](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Mrtrics.jpg)
+![Model](https://github.com/SaidulHaq/FYP/blob/main/model.jpg)
 
 ### Precision, recall, and f1 score
 ![Precision, recall, and f1 score](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Bug%20Report.jpg)
