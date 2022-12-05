@@ -21,7 +21,7 @@ Python is implemented in this project to analyze the data since it is an identic
 ## Screenshots
 
 ### Workflow
-![Workflow](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Report.jpg)
+![Workflow](https://github.com/SaidulHaq/FYP/blob/main/workflow.jpg)
 
 ### Model
 ![Model](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Test%20Mrtrics.jpg)
