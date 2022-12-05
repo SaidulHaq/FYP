@@ -33,4 +33,4 @@ Python is implemented in this project to analyze the data since it is an identic
 ![Confusion Matrix](https://github.com/SaidulHaq/FYP/blob/main/confusion%20matrix.jpg)
 
 ### Web Interface
-![Web Interface](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
+![Web Interface](https://github.com/SaidulHaq/FYP/blob/main/web%20interface.jpg)
