@@ -30,7 +30,7 @@ Python is implemented in this project to analyze the data since it is an identic
 ![Precision, recall, and f1 score](https://github.com/SaidulHaq/FYP/blob/main/Precision%2C%20recall%2C%20and%20f1%20score.jpg)
 
 ### Confusion Matrix
-![Confusion Matrix](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
+![Confusion Matrix](https://github.com/SaidulHaq/FYP/blob/main/confusion%20matrix.jpg)
 
 ### Web Interface
 ![Web Interface](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
