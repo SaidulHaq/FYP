@@ -27,7 +27,7 @@ Python is implemented in this project to analyze the data since it is an identic
 ![Model](https://github.com/SaidulHaq/FYP/blob/main/model.jpg)
 
 ### Precision, recall, and f1 score
-![Precision, recall, and f1 score](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/Bug%20Report.jpg)
+![Precision, recall, and f1 score](https://github.com/SaidulHaq/FYP/blob/main/Precision%2C%20recall%2C%20and%20f1%20score.jpg)
 
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/SaidulHaq/bproperty_ManualTestingReport/blob/main/bproperty_MindMap.png)
